@@ -1,5 +1,8 @@
 # Node.js Docker images built on Ubuntu
 
+The images are publicly hosted on [Docker
+Hub](https://hub.docker.com/r/shinzui/node/)
+
 ### Versions
 
 Latest: **0.9**
